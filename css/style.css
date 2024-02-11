@@ -297,7 +297,7 @@ a:focus {
   margin-top: 25px;
 }
 
-.slider_section .detail-box .btn-box a {
+.slider_section .detail-box .btn-box .a1 {
   margin: 5px;
   text-align: center;
   width: 165px;
@@ -524,12 +524,12 @@ a:focus {
   text-transform: uppercase;
 }
 
-.service_section .box .detail-box a {
+.service_section .box .detail-box .a2 {
   color: #00204a;
   font-weight: 600;
 }
 
-.service_section .box .detail-box a:hover {
+.service_section .box .detail-box .a2:hover {
   color: #00bbf0;
 }
 
@@ -543,7 +543,7 @@ a:focus {
   margin-top: 45px;
 }
 
-.service_section .btn-box a {
+.service_section .btn-box .a3 {
   display: inline-block;
   padding: 10px 45px;
   background-color: #00bbf0;
@@ -554,7 +554,7 @@ a:focus {
   border: none;
 }
 
-.service_section .btn-box a:hover {
+.service_section .btn-box .a3:hover {
   background-color: #007fa4;
 }
 
@@ -607,7 +607,7 @@ a:focus {
   margin-top: 15px;
 }
 
-.about_section .detail-box a {
+.about_section .detail-box .a4 {
   display: inline-block;
   padding: 10px 45px;
   background-color: #00bbf0;
@@ -619,7 +619,7 @@ a:focus {
   margin-top: 15px;
 }
 
-.about_section .detail-box a:hover {
+.about_section .detail-box .a4:hover {
   background-color: #007fa4;
 }
 
@@ -682,7 +682,7 @@ a:focus {
   margin-top: 45px;
 }
 
-.why_section .btn-box a {
+.why_section .btn-box .a5 {
   display: inline-block;
   padding: 10px 45px;
   background-color: #00bbf0;
@@ -693,7 +693,7 @@ a:focus {
   border: none;
 }
 
-.why_section .btn-box a:hover {
+.why_section .btn-box .a5:hover {
   background-color: #007fa4;
 }
 
@@ -763,12 +763,12 @@ a:focus {
           justify-content: space-between;
 }
 
-.team_section .team_container .box .social_box a {
+.team_section .team_container .box .social_box .a6 {
   color: #ffffff;
   font-size: 22px;
 }
 
-.team_section .team_container .box .social_box a:hover {
+.team_section .team_container .box .social_box .a6:hover {
   color: #00bbf0;
 }
 
@@ -897,16 +897,16 @@ a:focus {
           flex-direction: column;
 }
 
-.info_section .info_contact .contact_link_box a {
+.info_section .info_contact .contact_link_box .a7 {
   margin: 5px 0;
   color: #ffffff;
 }
 
-.info_section .info_contact .contact_link_box a i {
+.info_section .info_contact .contact_link_box .a7 i {
   margin-right: 5px;
 }
 
-.info_section .info_contact .contact_link_box a:hover {
+.info_section .info_contact .contact_link_box .a7:hover {
   color: #00bbf0;
 }
 
